@@ -1,0 +1,16 @@
+NumNets : 4
+NumPins : 10
+NetDegree : 3
+A B
+B B
+C B
+NetDegree : 3
+C B
+D B
+E B
+NetDegree : 3
+A B
+G B
+NetDegree : 3
+D B
+F B
